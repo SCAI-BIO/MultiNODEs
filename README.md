@@ -6,6 +6,9 @@ This repository contains a new organized version of the <b>MultiNODEs:</b> proje
 
 Full details of the approach are on the [paper](https://www.nature.com/articles/s41746-022-00666-x). 
 
+For reproduction of results and the original paper implemenation, please refer to https://github.com/SCAI-BIO/MultiNODEs/tree/v1.0.0 or download the
+[original paper repository release](https://github.com/SCAI-BIO/MultiNODEs/releases/tag/v1.0.0).
+
 ## Data
 
 To execute the code you need to download PPMI dataset, save the files in a folder data/PPMI, and organize them according to what MultiNODE's paper explains.
