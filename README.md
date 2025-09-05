@@ -18,7 +18,7 @@ To execute the code you need to download PPMI dataset, save the files in a folde
 
 To download everything from this repository onto your local directory, execute the following line on your terminal:
 ```
-$ git clone https://gitlab.scai.fraunhofer.de/diego.felipe.valderrama.nino/multinodes_newpublicversion.git MultiNODEs
+$ git clone https://github.com/SCAI-BIO/MultiNODEs.git MultiNODEs
 $ cd MultiNODEs
 ```
 
